@@ -14,4 +14,4 @@ Assignment No 3 for the computer graphics course. Using three.js, create a solar
 - Most textures can be found here: http://planetpixelemporium.com/
 - The panning and rotation of the system has to be controlled using an orbit controller.
 
-**Deadline:** 19/02/19 14:30 hrs
+**Deadline:** 19/09/12 23:59 hrs
